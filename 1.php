@@ -14,6 +14,7 @@
 <?php
 
 
+
 $day = date("d-m-Y H-i-s");
 
 echo "do pliku aktualny.txt dopisałeś " .  $day;
